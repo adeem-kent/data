@@ -1,5 +1,4 @@
 K231147	Mr Pramod Raut 
 K232138	Mr Nishant Kharel 
-
-K220350	Mr Gaurav Kumar Sah (new)
-K240013	Mr Nirajan Shoti (new)
+K220350	Mr Gaurav Kumar Sah 
+K240013	Mr Nirajan Shoti
